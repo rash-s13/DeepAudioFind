@@ -1,0 +1,6 @@
+result-instance1 from timings 12s to 12.6s
+result-instance2 from timings 14.4s to 15s
+result-instance3 from timings 28.8s to 29.4s
+result-instance4 from timings 30s to 30.6s
+result-instance5 from timings 53.4s to 54s
+result-instance6 from timings 54.6s to 55.2s

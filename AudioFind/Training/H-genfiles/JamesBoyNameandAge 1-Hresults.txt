@@ -1,0 +1,13 @@
+result-instance1 from timings 15.5s to 15.75s
+result-instance2 from timings 16.25s to 16.5s
+result-instance3 from timings 19.5s to 19.75s
+result-instance4 from timings 19.75s to 20s
+result-instance5 from timings 29.25s to 29.5s
+result-instance6 from timings 35.25s to 35.5s
+result-instance7 from timings 36.75s to 37s
+result-instance8 from timings 46.5s to 46.75s
+result-instance9 from timings 51s to 51.25s
+result-instance10 from timings 51.25s to 51.5s
+result-instance11 from timings 52.25s to 52.5s
+result-instance12 from timings 55.75s to 56s
+result-instance13 from timings 56s to 56.25s
